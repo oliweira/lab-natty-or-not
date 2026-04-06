@@ -25,5 +25,5 @@ Em 1717, pescadores no rio Paraíba do Sul, em São Paulo, lançaram suas redes 
 
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+Hoje muito trabalho está facilitando a criação de conteúdos com AI e está muito mais difícil saber se real ou fake.
 ```
