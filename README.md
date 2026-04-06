@@ -20,8 +20,8 @@ Em 1717, pescadores no rio Paraíba do Sul, em São Paulo, lançaram suas redes 
 
 - Imagem original e imagem no estilo "Cartoon PIXEL ART"
 
-<img width="1024" height="1536" alt="35 - Cartoon N  Sra Aparecida" src="https://github.com/user-attachments/assets/5b143c93-42a6-4a0a-9393-63a97f151a87" />
-
+![image1](https://github.com/user-attachments/assets/7a0ca403-75ea-45c8-b83d-4851ed7c14d2)
+<img width="1024" height="1536" alt="image2" src="https://github.com/user-attachments/assets/0b9aa086-4db6-46da-8100-5424f456d7b7" />
 
 
 ## 💭 Reflexão (Opcional)
